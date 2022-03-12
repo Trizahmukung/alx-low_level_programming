@@ -1,13 +1,15 @@
 /*
  * The puts function is in the stdio.h library
- * It reads characters and prints them out on the screen */
+ * It reads characters and prints them out on the screen 
+ */
 #include <stdio.h>
 
 /**
  * main - Prints "Programming is like building a multilingual puzzle,
  *	followed by a new line.
  *
- * Return: Always 0. */
+ * Return: Always 0. 
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
