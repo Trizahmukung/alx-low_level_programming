@@ -1,9 +1,9 @@
 /*
  * The puts function is in the stdio.h library
- * It reads characters and prints them out on the screen 
+ * It reads characters and prints them out on the screen
  */
 #include <stdio.h>
-/**
+/*i*
  * main - Prints "Programming is like building a multilingual puzzle,
  *	followed by a new line.
  *
