@@ -1,7 +1,6 @@
 /*
  * The puts function is in the stdio.h library
  * It reads characters and prints them out on the screen */
-
 #include <stdio.h>
 
 /**
@@ -12,7 +11,6 @@
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-return (0);
+
+	return (0);
 }
-
-
