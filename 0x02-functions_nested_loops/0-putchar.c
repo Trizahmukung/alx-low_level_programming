@@ -3,7 +3,7 @@
 /**
   * main - Entry point
   *
-  * Description function print_alphabet diplays string "Putchar"
+  * Description function print_alphabet diplays string "Holberton"
   *
   * Return: Always 0
   */
