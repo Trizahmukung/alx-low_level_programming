@@ -1,7 +1,9 @@
-#include "putchar.h"
+#include "main.h"
 
 /**
   * main - Entry point
+  *
+  * Description function print_alphabet diplays string "Putchar"
   *
   * Return: Always 0
   */
