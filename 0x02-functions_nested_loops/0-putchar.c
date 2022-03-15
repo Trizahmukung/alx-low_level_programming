@@ -1,12 +1,10 @@
 #include "main.h"
 
 /**
-  * main - Entry point
-  *
-  * Description function print_alphabet diplays string "Holberton"
-  *
-  * Return: Always 0
-  */
+* main - Entry point
+*
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
 	_putchar('_');
@@ -21,4 +19,3 @@ int main(void)
 
 	return (0);
 }
-

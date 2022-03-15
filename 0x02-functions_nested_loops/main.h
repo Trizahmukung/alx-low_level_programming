@@ -1,2 +1,1 @@
-#include "main.h"
-
+int-putchar(char),
