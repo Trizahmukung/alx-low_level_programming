@@ -2,8 +2,8 @@
 
 /**
  * main - tests function that prints if integeris postive or negative
- * Return:0
- */
+ * Return: 0
+ * */
 
 int main(void)
 {
