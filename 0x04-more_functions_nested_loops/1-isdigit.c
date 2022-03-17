@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isdigit - Checks for a digit from 0 to 9.
+ * _isdigit - Checks for a digit from 0 through 9.
  *
  * @c: The integer argument the function takes.
  *
@@ -14,5 +14,5 @@ int _isdigit(int c)
 	else
 		return (0);
 
-	return(0);
+	return (0);
 }
