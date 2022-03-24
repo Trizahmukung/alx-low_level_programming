@@ -12,6 +12,7 @@ char *_strcat(char *dest, char *src)
 {
 	int index = 0;
 	/* Have variable for index in array initialized to 0*/
+
 	while (*(dest + index))
 	{
 		index++;
