@@ -5,6 +5,7 @@
  *
  * Return: Always 0.
  */
+
 int main(void)
 {
 	int n, m, p;
@@ -20,7 +21,7 @@ int main(void)
 					putchar(n);
 					putchar(m);
 					putchar(p);
-				       
+
 					if (n != '7')
 					{
 						putchar(',');
